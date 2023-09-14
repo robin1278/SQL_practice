@@ -1,0 +1,1 @@
+create table science_class(Enrollment_no int, Name varchar, science_marks int)
